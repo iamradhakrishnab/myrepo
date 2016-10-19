@@ -1,0 +1,17 @@
+{
+  "MODELS":{
+      "version": 20161019
+  },
+  "VIDEOS":{
+    "version":20161009,
+    "filenames":["topload_xxx.mp4","frontload_xxx.mp4"]
+  },
+  "WOWFACTORS":{
+    "version":20161009,
+      "count":4
+  },
+  "OFFERS":{
+    "version":20161009,
+      "count":3
+  }
+}
