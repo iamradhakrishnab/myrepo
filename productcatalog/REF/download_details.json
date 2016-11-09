@@ -13,5 +13,8 @@
   "OFFERS":{
     "version":20161009,
       "count":3
+  },
+  "KEYFEATURES":{
+    "version":20161009
   }
 }
