@@ -8,11 +8,13 @@
   },
   "WOWFACTORS":{
     "version":20161018,
-      "count":0
+      "count":0,
+        "filenames":["offer_1.png","offer_2.png"],
   },
   "OFFERS":{
     "version":20161017,
-      "count":2
+      "count":2,
+    "filenames":["wow_factor_1.png","wow_factor_2.png"]
   },
   "KEYFEATURES":{
     "version":20161011
