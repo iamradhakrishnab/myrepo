@@ -1,0 +1,20 @@
+{
+  "MODELS":{
+      "version": 20161024
+  },
+  "VIDEOS":{
+    "version":20161024,
+    "filenames":["all_lg_smart_rack_system.MP4","all_lg_true_steram_dw.MP4"]
+  },
+  "WOWFACTORS":{
+    "version":20161024,
+    "filenames":["wow_0.png","wow_1.png"]
+  },
+  "OFFERS":{
+    "version":20161024,
+    "filenames":["offer_1.png","offer_2.png","offer_4.png"]
+  },
+  "KEYFEATURES":{
+    "version":20161024
+  }
+}
