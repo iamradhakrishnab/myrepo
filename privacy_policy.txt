@@ -1,0 +1,4 @@
+Guest Tracker Privacy Policy:
+We are using Camera permission for taking picture and saving.We are not using this picture for any other misuses.
+We are using Account permision for sign in process not for any voilations.
+For any misuses in your data we are not responsible as this app is free.
